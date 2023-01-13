@@ -1,0 +1,47 @@
+{
+    "status": true,
+    "pesan": "Data event berhasil diambil",
+    "data": [
+        {
+            "mk_kode": "ekskul1",
+            "mk_title": "ekskul tonti",
+            "mk_description": "tonti untuk kelas 7",
+            "sudah_presensi": false,
+            "waktu_presensi": "07 Oktober 2022 13:34:00 s.d 07 Oktober 2022 13:34:00",
+            "button_status": true,
+            "use_photo": false,
+            "use_gps": false,
+            "label_hari": []
+        },
+        {
+            "mk_kode": "d1",
+            "mk_title": "Contoh Extrakulikuler Pramuka",
+            "mk_description": "Contoh Kegiatan ini dilaksankan setiap hari  oleh seluruh warga sekolah",
+            "sudah_presensi": false,
+            "waktu_presensi": "07:00:00 s.d 15:01:00",
+            "button_status": false,
+            "use_photo": true,
+            "use_gps": false,
+            "label_hari": [
+                "Senin",
+                "Selasa",
+                "Rabu",
+                "Kamis",
+                "Jumat"
+            ]
+        },
+        {
+            "mk_kode": "10UPB",
+            "mk_title": "Upacara Bendera",
+            "mk_description": "Kegiatan Upacara Bendera Hari Senin",
+            "sudah_presensi": false,
+            "waktu_presensi": "07:00:00 s.d 08:00:00",
+            "button_status": false,
+            "use_photo": true,
+            "use_gps": false,
+            "label_hari": [
+                "Senin"
+            ]
+        }
+    ]
+}

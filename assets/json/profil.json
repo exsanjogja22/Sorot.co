@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "pesan": "Profil berhasil di ambil",
+    "biodata": {
+        "nis": "13874",
+        "nama_siswa": "ADRIAN BELMIRO",
+        "tempat_lahir": "",
+        "tgl_lahir": "0000-00-00",
+        "jenis_kelamin": "L",
+        "agama": "",
+        "alamat_asli": "",
+        "alamat_tinggal": "",
+        "phone": "",
+        "sekolah_asal": "",
+        "tahun_masuk": "",
+        "nama_ibu": "",
+        "nama_bapak": "",
+        "photo": "https://satriatama.id/assets/images/no-profile.jpeg",
+        "notiftoken": ""
+    }
+}

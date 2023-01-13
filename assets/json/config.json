@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "data": {
+        "jam_datang_awal": "06:00:00",
+        "jam_datang_akhir": "11:00:00",
+        "jam_pulang_awal": "17:00:00",
+        "jam_pulang_akhir": "18:00:00",
+        "system_latitude": -8.04954552574952,
+        "system_longitude": 110.50930289257157,
+        "system_radius": 100000
+    },
+    "pesan": "Ok"
+}

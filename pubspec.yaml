@@ -1,0 +1,37 @@
+name: aplikasi_menejement
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter_screenutil: 5.6.0
+  google_fonts: 3.0.1
+  shared_preferences: 2.0.15
+  http: 0.13.5
+  google_maps_flutter: 2.2.1
+  permission_handler: 10.2.0
+  flutter_jailbreak_detection: 1.8.0
+  app_settings: 4.1.8
+  location: 4.4.0
+  cool_alert: 1.1.0
+  file_picker: 5.2.3
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/icons/
+    - assets/icons/menu_presensi/
+    - assets/images/
+    - assets/icons/setings/
+  uses-material-design: true
+
